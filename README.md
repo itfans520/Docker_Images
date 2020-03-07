@@ -9,6 +9,7 @@ docker pull gcr.azk8s.cn/google_containers/<imagename>:<version>
 
 例子
 docker pull gcr.azk8s.cn/google_containers/pause-amd64:3.0
+
 docker pull gcr.azk8s.cn/google_containers/kubedns-amd64:1.7
 
 注意事项
